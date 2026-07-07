@@ -1,78 +1,133 @@
-<!-- Title Section -->
-<h1 align="center">🧩 Mahserin</h1>
-<p align="center">
-  <i>Translating chaos into logic. One system at a time.</i>
-</p>
+# Hi, I'm Mahserin 👋
+
+## Backend Developer | Software Architect | Builder
+
+I’m a backend-focused developer passionate about designing scalable systems, developer tools, and AI-powered products.
+
+I enjoy turning complex ideas into simple, maintainable architectures — from backend frameworks and APIs to AI platforms and automation systems.
+
+Currently exploring:
+- AI Engineering & Agent Systems
+- Backend Architecture
+- Developer Experience (DX)
+- Scalable Web Applications
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1f6feb?style=flat-square">
-  <img src="https://img.shields.io/badge/Philosophy-Code%20%26%20Logic-1f6feb?style=flat-square">
-  <img src="https://komarev.com/ghpvc/?username=mahserin&label=Visitors&color=1f6feb&style=flat-square">
-</p>
+## 🚀 Featured Projects
+
+### ⚡ Speedly
+A schema-driven backend framework designed to accelerate API development.
+
+**What it focuses on:**
+- Faster backend development
+- Modular architecture
+- Schema-driven APIs
+- Authentication, validation, database utilities, and reusable components
+
+> Building tools that help developers create products faster.
 
 ---
 
-### 🧠 About Me
-Backend developer. Problem breaker.  
-I don’t *try* things — I **understand** them until they surrender.  
-When it fails, I trace the failure back to its logic.  
-When it works, I push until it *almost doesn’t* — that’s where truth hides.
+### 🤖 AgenX
+A platform for creating and monetizing AI agents.
 
-> “Simplicity isn’t beauty — it’s the residue of deep understanding.”
+**Core concepts:**
+- AI agent creation
+- RAG pipelines
+- Knowledge ingestion
+- Vector search
+- AI-powered applications
 
----
-
-### ⚙️ Tech Stack
-| Layer | Tools |
-|-------|-------|
-| Core | Node.js · Express.js · TypeScript |
-| Data | MongoDB · Redis |
-| Infra | Docker · Nginx · CloudLinux |
-| Front | React · Vite |
-| Validation | Yup |
-| System | Linux · Bash · Logic over Luck |
+> Making AI systems accessible for creators and businesses.
 
 ---
 
-### 🧱 Current Project
-**Speedly** — a backend framework built on Express.js  
-No bloat. No noise. Just **control**.  
-> Modules: Auth · Validator · DB · Uploader · Utils · Configs
+### 🛒 E-commerce Platform
+A large-scale e-commerce system designed with complex business domains.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/mahserin/speedly?style=flat-square&color=1f6feb)](https://github.com/mahserin/speedly)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mahserin/speedly?style=flat-square&color=1f6feb)](https://github.com/mahserin/speedly)
-
----
-
-### 🧩 Mental Architecture
-- Understand before you automate  
-- Question before you trust  
-- Break before you build  
-
-> “Reality runs on logic — I just debug it.”
+Includes concepts like:
+- Product management
+- Orders
+- Cart systems
+- Discounts
+- Automation
+- Support workflows
+- Database architecture
 
 ---
 
-### 🧪 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahserin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahserin&theme=github-dark&hide_border=true&background=0d1117&stroke=1f6feb">
-</p>
+## 🛠️ Skills & Technologies
+
+### Backend
+- Node.js
+- TypeScript
+- Express.js
+- FastAPI
+- REST APIs
+- Database Design
+- System Architecture
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQL
+- Data Modeling
+
+### Frontend
+- React
+- Next.js
+- JavaScript
+- TypeScript
+
+### AI & Data
+- Python
+- RAG Systems
+- Embeddings
+- Vector Databases
+- AI Agents
+
+### Tools
+- Linux
+- Docker
+- Git
+- CI/CD
+- VPS Deployment
 
 ---
 
-### 🧠 Contact
-<p align="center">
-  <a href="https://github.com/mahserin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-1f6feb?style=flat-square&logo=github">
-  </a>
-</p>
+## 🧠 Engineering Philosophy
+
+I believe good software is not just about writing code.
+
+It is about:
+- Understanding problems deeply
+- Designing simple systems
+- Creating reusable solutions
+- Building products that solve real needs
 
 ---
 
-<p align="center">
-  <i>“I don’t fix problems. I dismantle illusions until what’s left finally makes sense.”</i>
-</p>
+## 📈 Current Learning Path
+
+- Advanced Backend Architecture
+- Artificial Intelligence Engineering
+- System Design
+- Software Engineering Principles
+- Philosophy & Human Understanding
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+- Open-source projects
+- Backend engineering
+- AI products
+- Technical collaborations
+
+Feel free to explore my repositories or connect with me.
+
+---
+
+⭐ Thanks for visiting my profile!
